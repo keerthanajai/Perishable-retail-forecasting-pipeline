@@ -1,8 +1,8 @@
 # AI-Driven Forecasting and Waste Optimization for Perishable Retail Goods in Ecuador
 ### Part 1 — Data Engineering & Forecasting Pipeline
 
-> This repository is **Part 1** of a two-part project.
-> The agentic AI and demand intelligence module can be found here → [perishable-retail-agent]((https://github.com/keerthanajai/Perishable-Retail-Agent))
+> This repository is **Part 1** of a two-part project.  
+> The agentic AI and demand intelligence module can be found here → [perishable-retail-agent](https://github.com/keerthanajai/Perishable-Retail-Agent)
 
 ---
 
