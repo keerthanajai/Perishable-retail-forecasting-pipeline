@@ -2,7 +2,7 @@
 ### Part 1 — Data Engineering & Forecasting Pipeline
 
 > This repository is **Part 1** of a two-part project.
-> The agentic AI and demand intelligence module can be found here → [perishable-retail-demand-agent](YOUR_LINK_HERE)
+> The agentic AI and demand intelligence module can be found here → [perishable-retail-agent](YOUR_LINK_HERE)
 
 ---
 
